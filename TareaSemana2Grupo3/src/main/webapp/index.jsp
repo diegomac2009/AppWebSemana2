@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Insert title here </title>
 <link rel="stylesheet" href="estilo1.css">
 </head>
 

@@ -17,7 +17,7 @@ import com.clases.Persona;
  */
 @WebServlet(name = "validar", urlPatterns = { "/validar" })
 public class ValidarServlet extends HttpServlet {
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID  = 1L;
 
 	/**
 	 * @see HttpServlet#HttpServlet()

@@ -15,7 +15,7 @@ import com.clases.Persona;
  * Servlet implementation class IngresarServlet
  */
 @WebServlet(name = "ingresar", urlPatterns = { "/ingresar" })
-public class IngresarServlet extends HttpServlet {
+public class IngresarServlet extends HttpServlet  {
 	private static final long serialVersionUID = 1L;
        
 	Long contador = (long)0;

@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
+<meta charset ="ISO-8859-1">
 <title>Datos</title>
 <link rel="stylesheet" href="estilo2.css">
 </head>

@@ -2,8 +2,8 @@ package com.clases;
 
 public class Persona {
 	
-	Long identificador;
-	String nombre;
+	Long identificador ;
+	String nombre ;
 	int edad;
 	String direccion;
 	int tel;
